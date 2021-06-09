@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbdf660a-c005-46f2-ab02-051972622c20" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sWEEp5adzqunkRywr9dW98xurE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\RAHUL\IdeaProjects\E2E_Project\src\test\java\Test" />
+      <recent name="C:\Users\RAHUL\IdeaProjects\E2E_Project\src\main\resources" />
+      <recent name="C:\Users\RAHUL\IdeaProjects\E2E_Project\src\main\java\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pageObject" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\RAHUL\IdeaProjects\E2E_Project" />
+      <recent name="C:\Users\RAHUL\IdeaProjects\E2E_Project\src\main\resources" />
+      <recent name="C:\Users\RAHUL\IdeaProjects\E2E_Project\src\test\java\Academy" />
+      <recent name="C:\Users\RAHUL\IdeaProjects\E2E_Project\src\test\java\Test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="E2E_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumberOptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cucumberOptions" />
+      <option name="MAIN_CLASS_NAME" value="cucumberOptions.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/RAHUL/IdeaProjects/E2E_Project/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="E2E_Project" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="E2E_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.HomePage" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt; (4)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="E2E_Project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="E2E_Project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="TestNG.&lt;default&gt;" />
+        <item itemvalue="TestNG.C:/Users/RAHUL/IdeaProjects/E2E_Project/testng.xml" />
+        <item itemvalue="TestNG.HomePage" />
+        <item itemvalue="TestNG.&lt;default&gt; (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbdf660a-c005-46f2-ab02-051972622c20" name="Default Changelist" comment="" />
+      <created>1620979836044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620979836044</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="134" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621086606340">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="134" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1360.728@0.0.1360.728" timestamp="1621086606340" />
+    <state x="485" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1621101911090">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="485" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1360.728@0.0.1360.728" timestamp="1621101911090" />
+    <state x="460" y="119" key="FileChooserDialogImpl" timestamp="1621101005704">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1621101005704" />
+    <state width="1316" height="171" key="GridCell.Tab.0.bottom" timestamp="1623093863402">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="171" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1623093863402" />
+    <state width="1316" height="171" key="GridCell.Tab.0.center" timestamp="1623093863402">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="171" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1623093863402" />
+    <state width="1316" height="171" key="GridCell.Tab.0.left" timestamp="1623093863402">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="171" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1623093863402" />
+    <state width="1316" height="171" key="GridCell.Tab.0.right" timestamp="1623093863402">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="171" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1623093863402" />
+    <state x="260" y="99" key="IDE.errors.dialog" timestamp="1621270021852">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="260" y="99" key="IDE.errors.dialog/0.0.1360.728@0.0.1360.728" timestamp="1621270021852" />
+    <state x="210" y="19" key="Maven.ArtifactSearchDialog" timestamp="1621101303393">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="210" y="19" key="Maven.ArtifactSearchDialog/0.0.1360.728@0.0.1360.728" timestamp="1621101303393" />
+    <state x="160" y="0" key="SettingsEditor" timestamp="1621085899056">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="160" y="0" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1621085899056" />
+    <state x="496" y="142" key="chooseDestDirectoryDialog" timestamp="1621150335050">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="496" y="142" key="chooseDestDirectoryDialog/0.0.1360.728@0.0.1360.728" timestamp="1621150335050" />
+    <state x="62" y="60" key="new project wizard" timestamp="1621445825023">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="62" y="60" key="new project wizard/0.0.1360.728@0.0.1360.728" timestamp="1621445825023" />
+  </component>
+</project>
